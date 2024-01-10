@@ -16,7 +16,7 @@
 <a href="https://blog.naver.com/inno06039"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://blog.naver.com/inno06039"/></a>
 </p>
 
-<h3 align="left"><b>📚 Programs 📚</b></h3>
+<h3 align="left"><b>📚 Skills 📚</b></h3>
 </br>
 <p align="left">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>

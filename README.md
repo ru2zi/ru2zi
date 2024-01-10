@@ -10,7 +10,7 @@
 <h3 align="left"><b>💌 Social 💌 </b></h3>
 </br>
 <p align="left">
-<a href="mailto:메일@주소><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:메일@주소"/></a>
+<a href="mailto:inho06039@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:inho06039@gmail.com"/></a>
 <a href="https://www.instagram.com/99inno"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/99inno"/></a>
 <a href="https://blog.naver.com/inno06039"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://blog.naver.com/inno06039"/></a>
 </p>

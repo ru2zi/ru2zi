@@ -1,6 +1,6 @@
 ### INNO 👋
 
-[![Inno's GitHub stats](https://github-readme-stats.vercel.app/api?username=ru2zi)](https://github.com/ru2zi/github-readme-stats)
+[![Inno's GitHub stats](https://github-readme-stats.vercel.app/api?username=ru2zi&theme=ambient_gradient)](https://github.com/ru2zi/github-readme-stats)
 
 </br>
 <p align="left">

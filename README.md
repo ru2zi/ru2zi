@@ -1,10 +1,12 @@
-### 안녕하세요 👋
+### INNO 👋
 
 [![Inno's GitHub stats](https://github-readme-stats.vercel.app/api?username=ru2zi)](https://github.com/ru2zi/github-readme-stats)
+
 </br>
 <p align="left">
-- 🌱 저는 항상 새로운 것을 배우고 성장하는 것을 추구합니다. <br>
-- 👯 다양한 프로젝트에서 협업을 통해 성장하고 싶습니다.
+- 🔍 I majored in Organic Materials & Fiber Engineering and Industrial Information Systems Engineering at Jeonbuk National University. <br>
+- 🌱 I am always seeking to learn new things and grow. <br>
+- 👯 I want to grow through collaboration in various projects.
 </p>
 
 <h3 align="left"><b>💌 Social 💌 </b></h3>

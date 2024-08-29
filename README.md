@@ -24,6 +24,9 @@
     <a href="https://www.linkedin.com/in/%EC%9D%B8%ED%98%B8-%EA%B9%80-4438b31a5/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://almondine-belly-5e3.notion.site/8087875d32c24c8bacf20ed28294093b?pvs=4">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
+    </a>
 </p>
 
 

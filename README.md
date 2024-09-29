@@ -1,7 +1,7 @@
 ### INNO
 [![Inno's GitHub stats](https://github-readme-stats.vercel.app/api?username=ru2zi&theme=ambient_gradient)](https://github.com/ru2zi/github-readme-stats)
 
-<p align="left">- 🔍 I majored in Organic Materials & Fiber Engineering** and **Industrial Information Systems Engineering at Jeonbuk National University. I have a strong passion for interdisciplinary research and development, particularly in the fields of materials science and industrial systems.</p>
+<p align="left">🔍 I majored in Organic Materials & Fiber Engineering** and **Industrial Information Systems Engineering at Jeonbuk National University. <br> I have a strong passion for interdisciplinary research and development, particularly in the fields of materials science and industrial systems.</p>
 
 <h3 align="left"><b>📬 Social 📭</b></h3>
 <p align="left">

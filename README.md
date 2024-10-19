@@ -7,13 +7,6 @@
 <p align="left">
     <a href="mailto:inho06039@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:inho06039@gmail.com"/>
-    </a>
-    <a href="https://www.instagram.com/99inno">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/99inno"/>
-    </a>
-    <a href="https://blog.naver.com/inno06039">
-        <img src="http://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=https://blog.naver.com/inno06039"/>
-    </a>
     <a href="https://www.linkedin.com/in/%EC%9D%B8%ED%98%B8-%EA%B9%80-4438b31a5/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>

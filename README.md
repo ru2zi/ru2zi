@@ -3,21 +3,7 @@
 
 <p align="left">🔍 I majored in Organic Materials & Fiber Engineering and Industrial Information Systems Engineering at Jeonbuk National University. <br> I have a strong passion for interdisciplinary research and development, particularly in the fields of materials science and industrial systems.</p>
 
-<h3 align="left"><b>📬 Social 📭</b></h3>
-<p align="left">
-    <a href="mailto:inho06039@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:inho06039@gmail.com"/>
-    <a href="https://www.linkedin.com/in/%EC%9D%B8%ED%98%B8-%EA%B9%80-4438b31a5/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-</p>
 
-<h3 align="left"><b>📁 Portfolio</b></h3>
-<p align="left">
-    <a href="http://almondine-belly-5e3.notion.site">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
-    </a>
-</p>
 
 <h3 align="left"><b>📚 Skills 📚</b></h3>
 <p align="left">

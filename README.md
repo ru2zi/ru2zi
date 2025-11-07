@@ -5,7 +5,6 @@
 I am currently pursuing a Master’s degree in the <b>Energy AI Track</b> at the <b>Korea Institute of Energy Technology (KENTECH)</b>.  
 My research focuses on the intersection of artificial intelligence and energy systems, with particular interest in <b>Multi-modal Retrieval-Augmented Generation (RAG)</b> and its applications to intelligent information processing.  
 I hold a B.S. in <b>Organic Materials & Fiber Engineering</b> and <b>Industrial Information Systems Engineering</b> from <b>Jeonbuk National University</b>.  
-I am passionate about bridging materials science and data-driven industrial systems through interdisciplinary research and development.
 </p>
 
 ---
@@ -25,4 +24,4 @@ I am passionate about bridging materials science and data-driven industrial syst
 ### Research Interests
 - Multi-modal Retrieval-Augmented Generation (RAG)  
 - Energy AI and intelligent systems  
-- Data-driven materials informatics
+- Time Series Forecasting and Predictive Modeling  

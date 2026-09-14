@@ -1,75 +1,37 @@
 # Inho Kim
 
-Master's student in **Energy AI at KENTECH**.
+I am a Master's student in **Energy AI at KENTECH**.
 
-I work on machine learning for **multimodal and time-series data**, with current research focusing on:
+My research focuses on **Multimodal RAG**, **Time Series Forecasting**, and **AI for Energy Systems**.  
+I am interested in understanding what information AI models can reliably learn from limited and heterogeneous data.
 
-- **Multimodal RAG** — retrieval and reranking across speech and text
-- **Time-series forecasting** — understanding when past observations are useful for predicting the future
-- **AI for energy systems** — analyzing and controlling GPU power demand in AI data centers
+## Research Interests
 
-My broader interest is in building models that remain useful when data are limited, heterogeneous, or difficult to interpret.
-
----
-
-## Research
-
-### Multimodal Retrieval-Augmented Generation
-I study how information retrieved from different modalities can be compared and combined.
-
-- **STeReO** — cross-modal reranking of speech and text retrieval results
-- Interspeech 2026 Main Track
-
-### Time-Series Forecasting
-I am studying what information is actually identifiable from observed history and when retrieval from past cases can improve forecasting.
-
-Current topics include:
-- retrieval-based forecasting
-- future-information identifiability
-- time-series representation and similarity
-- forecasting under limited observations
-
-### Energy AI
-I study the power characteristics of AI workloads and methods for controlling GPU demand in AI data centers.
-
-Current work includes:
-- GPU power profiling for LLM, VLM, and ASR workloads
-- workload-level power variability
-- software-based load control
-
----
-
-## Selected Publications
-
-- **A Reranker for Orchestrating Heterogeneous Speech and Text Retrievers**  
-  *Interspeech 2026, Main Track*
-
-- **Error-Diverse Bounded Fusion for Health Prediction from Wearable Lifelog Data with Few Subjects**  
-  *ICTC 2026*
-
-- **Advanced Virtual Metrology Using Distribution Alignment Loss for Practical Quality Control**  
-  *International Journal of Production Research, 2025* — Co-first author
-
----
-
-## Education
-
-**Korea Institute of Energy Technology (KENTECH)**  
-M.S. Track in Energy AI · 2025–Present
-
-**Jeonbuk National University**  
-B.S. in Organic Materials & Fiber Engineering  
-Double Major in Industrial Information Systems Engineering · 2019–2024
-
----
+- Multimodal RAG with Speech and Text
+- Time Series Forecasting and Retrieval
+- AI for Energy Systems
+- Large Language Models
+- Predictive Modeling
 
 ## Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
 </p>
 
----
+## GitHub Stats
 
-[![Inho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ru2zi&show_icons=true)](https://github.com/ru2zi)
+[![Inno's GitHub stats](https://github-readme-stats.vercel.app/api?username=ru2zi&theme=ambient_gradient)](https://github.com/ru2zi/github-readme-stats)

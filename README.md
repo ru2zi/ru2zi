@@ -2,31 +2,41 @@
 
 # Inho Kim
 
-### M.S. Student in Energy AI @ KENTECH
+**M.S. Student in Energy AI @ KENTECH**
 
-`Multimodal RAG` · `Time Series Forecasting` · `AI for Energy Systems`
+<p>
+  <a href="https://scholar.google.com/citations?user=ImRthkgAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/inho-kim-4438b31a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:inho20@kentech.ac.kr">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
-<br>
+## About Me
 
-## About
+I am a Master's student in **Energy AI at KENTECH**.
 
-I work on machine learning for multimodal and time-series data, with a focus on retrieval, forecasting, and AI applications in energy systems.
+My research focuses on **Multimodal RAG**, **Time Series Forecasting**, and **AI for Energy Systems**.
 
 ## Research Interests
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Multimodal%20RAG-6E56CF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Speech%20%26%20Text%20Retrieval-8B5CF6?style=flat-square"/>
   <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/Energy%20AI-059669?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLM-DB2777?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-DB2777?style=flat-square"/>
 </p>
 
 ## Tech Stack
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -42,8 +52,6 @@ I work on machine learning for multimodal and time-series data, with a focus on 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
 </p>
 
 ## GitHub Stats
